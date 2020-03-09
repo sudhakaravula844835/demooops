@@ -1,0 +1,11 @@
+constructors are as similar as 
+construction must be same name as class name
+constuctor we can written type.This is key word is used 
+limited data types
+\
+default constructor 
+parameter constructor
+
+
+obstract is a key word.
+declared in subclass.Class must have a obstract method.

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95769" started-at="2020-02-21T10:16:32Z" finished-at="2020-02-21T10:18:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95769" started-at="2020-02-21T10:16:32Z" finished-at="2020-02-21T10:18:08Z">
+      <class name="Testing.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="beforeSuite" is-config="true" duration-ms="354" started-at="2020-02-21T15:46:32Z" finished-at="2020-02-21T15:46:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="beforeTest" is-config="true" duration-ms="4" started-at="2020-02-21T15:46:32Z" finished-at="2020-02-21T15:46:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="beforeClass" is-config="true" duration-ms="2" started-at="2020-02-21T15:46:33Z" finished-at="2020-02-21T15:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2020-02-21T15:46:33Z" finished-at="2020-02-21T15:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="add1And2()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="add1And2" duration-ms="95216" started-at="2020-02-21T15:46:33Z" finished-at="2020-02-21T15:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add1And2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="afterMethod" is-config="true" duration-ms="14" started-at="2020-02-21T15:48:08Z" finished-at="2020-02-21T15:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-02-21T15:48:08Z" finished-at="2020-02-21T15:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-02-21T15:48:08Z" finished-at="2020-02-21T15:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Testing.NewTest@2cfb4a64]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-02-21T15:48:09Z" finished-at="2020-02-21T15:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Testing.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
